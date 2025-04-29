@@ -28,6 +28,11 @@ function App() {
     <button type="button" class="btn btn-secondary">Secondary</button>
     <button type="button" class="btn btn-success">Success</button>
     <button type="button" class="btn btn-danger">Danger</button>
+
+    <br/>
+    <br/>
+
+    <i class="bi bi-balloon-heart"></i>
     </>
   );
 }
