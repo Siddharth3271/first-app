@@ -16,10 +16,12 @@ function App() {
     //   </div>
     //   </div>
     <>
-    <MyCard heading="Good Morning"/>
+    {/* <MyCard heading="Good Morning"/>
     <MyCard heading="Good afternoon"/>
-    <MyCard heading="Good evening"/>
-
+    <MyCard heading="Good evening"/> */}
+    <nav class="navbar navbar-dark bg-dark">
+      Hello
+    </nav>
     <h3>We are using bootstrap</h3>
     <br/>
     <button type="button" class="btn btn-primary">Primary</button>
